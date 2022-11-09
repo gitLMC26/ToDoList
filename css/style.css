@@ -15,7 +15,7 @@ body{
 }
 
 .todolistBtn{
-    background-image: url("/bg/bg.png");
+    background-image: url("bg/bg.png");
     color: white;
     text-decoration: none;
     padding: 15px;
